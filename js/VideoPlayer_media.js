@@ -111,7 +111,8 @@ var fluid_1_5 = fluid_1_5 || {};
             "video/webm": "fluid.videoPlayer.media.createSourceMarkup.html5SourceTag",
             "video/ogg": "fluid.videoPlayer.media.createSourceMarkup.html5SourceTag",
             "video/ogv": "fluid.videoPlayer.media.createSourceMarkup.html5SourceTag",
-            "video/youtube": "fluid.videoPlayer.media.createSourceMarkup.html5SourceTag"
+            "video/youtube": "fluid.videoPlayer.media.createSourceMarkup.html5SourceTag",
+            "video/flv": "fluid.videoPlayer.media.createSourceMarkup.html5SourceTag"
         },
         sources: []
     });
